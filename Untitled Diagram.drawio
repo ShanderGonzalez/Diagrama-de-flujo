@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T06:40:18.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="SoK8fq8Hs5wUWAy_len-" version="15.8.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-19T07:32:37.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="FcWZI_xU_ky1IxtWNjbf" version="15.8.1" type="github" pages="5">
   <diagram id="RfkVHlgcbRhezkkKAwWq" name="Page-1">
-    <mxGraphModel dx="820" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="456" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uh5Uv9tz_IjgXb-oKCH7" name="Page-2">
-    <mxGraphModel dx="965" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="536" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SMufYBVZCHLQ-_UoV49F-0" />
         <mxCell id="SMufYBVZCHLQ-_UoV49F-1" parent="SMufYBVZCHLQ-_UoV49F-0" />
@@ -406,7 +406,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U9WpAIstm1HVsJkJ_Y17-23" value="contadorimpar ← contadorimpar +1" style="whiteSpace=wrap;html=1;" vertex="1" parent="lcAOLfdxaIWnbEs1JgI1-1">
-          <mxGeometry x="589.99" y="585" width="200.01" height="25" as="geometry" />
+          <mxGeometry x="512.36" y="585" width="200.01" height="25" as="geometry" />
         </mxCell>
         <mxCell id="U9WpAIstm1HVsJkJ_Y17-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lcAOLfdxaIWnbEs1JgI1-1" source="U9WpAIstm1HVsJkJ_Y17-25">
           <mxGeometry relative="1" as="geometry">
@@ -438,21 +438,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U9WpAIstm1HVsJkJ_Y17-34" value="Escribir contadorpar, contadorimpar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="lcAOLfdxaIWnbEs1JgI1-1">
-          <mxGeometry x="799.99" y="460" width="230.01" height="30" as="geometry" />
+          <mxGeometry x="649.99" y="480" width="230.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9WpAIstm1HVsJkJ_Y17-41" value="falso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lcAOLfdxaIWnbEs1JgI1-1">
-          <mxGeometry x="620" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9WpAIstm1HVsJkJ_Y17-42" value="verdadero" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lcAOLfdxaIWnbEs1JgI1-1">
           <mxGeometry x="190" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U9WpAIstm1HVsJkJ_Y17-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="lcAOLfdxaIWnbEs1JgI1-1" source="U9WpAIstm1HVsJkJ_Y17-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U9WpAIstm1HVsJkJ_Y17-43" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="lcAOLfdxaIWnbEs1JgI1-1">
-          <mxGeometry x="890" y="660" width="50" height="30" as="geometry" />
+          <mxGeometry x="740" y="650" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
